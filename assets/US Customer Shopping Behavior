@@ -1,6 +1,6 @@
 # Project 1 
 
-**Title:** [US Customer fashion shopping behavior 2025](https://github.com/F-Adigun208/F-Adigun208.github.io/blob/main/shopping_behavior_DASHBOARD.xlsx)
+**Title:** [US Customer fashion shopping behavior 2025]
 
 **Tools Used:** Microsoft Excel(Power query, Trim, Proper, Pivot table, Pivot chart, Slicer) 
 
@@ -25,19 +25,18 @@ Payment method: Filter the data to view which method people prefer in making pay
 Shipping type: Filter the data to determine which method of delivery customers prefer
 
 **Key findings:** 
-Purchase frequency: Reveals that majority of customers(15%) changes their wardrobe every three month compares to any other period in the year , highlighting the need for accurate inventory planning to meet customers demand and minimizing storage costs.
+Purchase frequency: Reveals majority of customers(15%) changes their wardrobe every three month compare to any other period in the year , highlighting the need for accurate inventory planning to meet customers demand and minimizing storage costs.
 
-Average spending by category: Identify how customers value each accessory, allowing for the standard pricing strategy
+Average spending by product category: Identify how customers value each accessory, An insight into the customers pyrchasing power. Informing decision on optimisation of business pricing and marketing strategies.
 
-Purchase by season: Identify the sales trend by season. Allowing for an accurate demand forecast and strategic planning.
+Purchase by season: Shows that US fashion industry experiences highest sales in Spring(26%) compare to every other season.Providing an insight into optimisation of inventory to avoid stockout and overstocking.
 
-Customers’ location: Revealed the concentration of customers' purchases by location, highlighting regions where supply could be improved
+Customers’ location: Revealed the concentration of customers' purchases by location, an insight into the development of effective marketing strategy towards regions with the highest potential return on investment
 
-Purchase items size: Identify the pattern of sales with respect to size, which informs the proper stock decision 
+Purchase items size: Identify the pattern of sales with respect to size, providing critical insight into demand forecasting, helping businesss tailor product to customers tastesand need 
 
-Purchase by gender: Revealed the pattern of purchases made by gender, providing an insight into the target population
+Purchase by gender: Revealed the gender segment dominance across top ten items, providing an insight into ccustomers behavior, market potential, and strategic opportunities.
 
 This dashboard serves as a crucial tool for the fashion retailer management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
-**Dashboard Overview:** 
-![CustomerBehavior](CustomerBehavior.png)
+
