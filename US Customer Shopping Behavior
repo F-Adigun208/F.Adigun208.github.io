@@ -1,0 +1,40 @@
+# Project 1 
+
+**Title:** [US Customer fashion shopping behavior 2025]
+
+**Tools Used:** Microsoft Excel(Power query, Trim, Proper, Pivot table, Pivot chart, Slicer) 
+
+**Project Description:** This project focuses on the analysis of customers' shopping behavior in the US fashion industry to identify trends, purchasing patterns, and seasonal behavior in 2025. It is designed to provide a comprehensive overview of items purchased, purchase frequency, average spending, and purchases by season. This dashboard allows stakeholders to easily monitor and analyze the industry purchase behavior across locations, payment methods, and shipping types. The dashboard includes the following features:
+
+Purchase frequency: A trend of how often people buy fashion items
+
+Average spending by category: The average amount spent by customers on a fashion category. 
+
+Purchase by season: Seasonal breakdown of customers' purchases. 
+
+Customers' location: Top five customers' locations with the highest purchases. 
+
+Purchase items size: Most purchase sizes across all locations
+
+Purchased by gender: A distribution of the top ten items purchased by gender. 
+
+Additionally, the dashboard includes interactive slicers for 
+
+Payment method: Filter the data to view which method people prefer in making payments.
+
+Shipping type: Filter the data to determine which method of delivery customers prefer
+
+**Key findings:** 
+Purchase frequency: Reveals majority of customers(15%) changes their wardrobe every three month compare to any other period in the year , highlighting the need for accurate inventory planning to meet customers demand and minimizing storage costs.
+
+Average spending by product category: Identify how customers value each accessory, An insight into the customers pyrchasing power. Informing decision on optimisation of business pricing and marketing strategies.
+
+Purchase by season: Shows that US fashion industry experiences highest sales in Spring(26%) compare to every other season.Providing an insight into optimisation of inventory to avoid stockout and overstocking.
+
+Customers’ location: Revealed the concentration of customers' purchases by location, an insight into the development of effective marketing strategy towards regions with the highest potential return on investment
+
+Purchase items size: Identify the pattern of sales with respect to size, providing critical insight into demand forecasting, helping businesss tailor product to customers tastesand need 
+
+Purchase by gender: Revealed the gender segment dominance across top ten items, providing an insight into ccustomers behavior, market potential, and strategic opportunities.
+
+This dashboard serves as a crucial tool for the fashion retailer management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
